@@ -1,0 +1,61 @@
+[
+  
+  {
+    "name": "Web Development",
+    "desc": "Developed company website using HTML, CSS, and JavaScript, ensuring responsive design and cross-browser compatibility.",
+    "image": "abewebsite",
+    "category": "Web",
+    "links": {
+      "view": ""
+    }
+  },
+  {
+    "name": "Chat Bot",
+    "desc": "Developed chat functionality using JavaScript to enhance real-time communication and user interaction on web applications",
+    "image": "chatbot",
+    "category": "Web",
+    "links": {
+      "view": ""
+      
+    }
+  },
+  {
+    "name": "Resturant Site",
+    "desc": "Developed a restaurant application using front-end languages like HTML, CSS, and JavaScript, focusing on intuitive user interfaces and responsive design principles",
+    "image": "resturant",
+    "category": "Web",
+    "links": {
+      "view": ""
+     
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": ""
+    }
+  },
+  {
+    "name": "Music App",
+    "desc": "Developed a music application using Flutter, incorporating features such as user authentication, music streaming, and personalized playlists.",
+    "image": "music",
+    "category": "Flutter",
+    "links": {
+      "view": ""
+      
+    }
+  },
+  {
+    "name": "Software Defect Density",
+    "desc": "A Novel Approach to Predict the Defect Density in Software Application using Linear Regression Algorithm.",
+    "image": "software",
+    "category": "AI & ML",
+    "links": {
+      "view": ""
+      
+    }
+  }
+]
